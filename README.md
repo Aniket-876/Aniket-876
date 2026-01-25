@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi , I'm Aniket Sanjay Chaudhari 👋<br>I am a Software Engineer and Full Stack Developer with a strong foundation in building responsive, user-centric web applications. I enjoy bridge the gap between complex engineering concepts and functional software solutions.<br><br>🚀 Quick Overview<br>🔭 I’m currently working on: Scaling my Digital Civic Engagement Petition Platform, a full-stack project built with the MERN stack and MySQL.<br><br>👯 I’m looking to collaborate on: Open-source projects involving React.js, Node.js, or Python.<br><br>🤝 I’m looking for help with: Mastering advanced cloud architecture and further exploring Oracle Cloud Infrastructure.<br><br>🌱 I’m currently learning: Advanced AI foundations and deep-diving into Data Science applications with Python.<br><br>💬 Ask me about: Frontend Development (Tailwind, Bootstrap), JavaScript (ES6+), or MySQL implementation.<br><br>⚡ Fun fact: I am a certified Hashgraph Developer and an Oracle Cloud Foundations Associate.<br><br>🛠️ Technical Skills<br><br>Languages: JavaScript (ES6+), Python, HTML5, CSS3, SQL.<br><br><br>Frontend: React.js, Tailwind CSS, Bootstrap, Responsive Web Design.<br><br><br>Backend/Database: Node.js, Express.js, MongoDB, MySQL.<br><br><br>Data Science Tools: NumPy, Pandas, Jupyter Notebook, Anaconda.<br><br><br>Version Control: Git & GitHub.<br><br>🏆 Key Projects<br><br>Digital Civic Platform: A geo-targeted petition system for local governance.<br><br><br>Spotify Clone: A high-fidelity music player with dynamic rendering and custom UI.<br><br><br>Interactive Quiz App: Real-time score tracking and randomization logic using core JS.<br><br>📫 How to reach me:<br><br>LinkedIn: linkedin.com/in/aniket-chaudhari-5a377a25a <br><br><br>Email: aniketchaudhari6985@gmail.com
 
-<!--
-**Aniket-876/Aniket-876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketchaudhari6985@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aniket-876&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aniket-876&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-876&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aniket-876&icon=9&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
