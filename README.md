@@ -1,252 +1,158 @@
-# 🌾 Crop Yield Analysis using Exploratory Data Analysis (EDA)
+<h1 align="center">Hi 👋, I'm Aniket Chaudhari</h1>
+
+<h3 align="center">
+Aspiring Data Analyst | Python | SQL | Power BI | Excel | Data Visualization
+</h3>
+
+<p align="center">
+Passionate about transforming raw data into meaningful insights through data analysis and visualization.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science Engineering
+- 📊 Aspiring Data Analyst
+- 🐍 Learning Python for Data Analytics
+- 🗄 Learning SQL for Business Analysis
+- 📈 Building Real-world Data Analytics Projects
+- 📊 Interested in Business Intelligence & Dashboard Development
+- 🌱 Currently improving Data Analysis and Problem Solving Skills
+- 🚀 Goal: Work as a Data Analyst in a Product-Based Company
+
+---
+
+## 🚀 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
+
+---
+
+### Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)
+
+---
+
+### Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+# 📂 Featured Projects
+
+### 🌾 Crop Yield Analysis
+
+Exploratory Data Analysis on agricultural crop yield dataset.
+
+**Skills Used**
+
+- Data Cleaning
+- Data Visualization
+- Feature Analysis
+- Outlier Detection
+- Business Insights
+
+---
+
+### 🏡 House Rent Analysis
+
+EDA project to understand rental trends and factors affecting house prices.
+
+**Skills Used**
+
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+
+---
+
+### 📊 Movie Sales Dashboard
+
+Interactive Power BI dashboard for movie sales analysis.
+
+**Skills Used**
+
+- Power BI
+- DAX
+- Data Modeling
+- Dashboard Design
+
+---
+
+### 🌐 Web Scraping Project
+
+Collected real-world data using BeautifulSoup and transformed it into an analysis-ready dataset.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-2E8B57)
-![Status](https://img.shields.io/badge/Project-Completed-success)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 </p>
 
 ---
 
-## 📌 Project Overview
+## 📚 Currently Learning
 
-This project performs a complete **Exploratory Data Analysis (EDA)** on an Agricultural Crop Yield dataset to discover the factors that influence crop productivity. The project follows a real-world data analytics workflow including data cleaning, preprocessing, visualization, and business insight generation.
-
-The analysis helps understand how rainfall, fertilizer usage, pesticide usage, cultivated area, season, and crop type affect agricultural yield.
-
----
-
-## 🎯 Business Objective
-
-The objective of this project is to analyze agricultural data and identify important factors affecting crop yield. The insights generated can help farmers, researchers, policymakers, and agribusiness organizations make data-driven decisions for improving agricultural productivity.
+- Advanced SQL
+- Statistics for Data Analytics
+- Power BI
+- Streamlit
+- Machine Learning Fundamentals
 
 ---
 
-# 📂 Dataset Information
+## 📫 Connect With Me
 
-**Dataset:** Agricultural Crop Yield Dataset
-
-### Features
-
-- Crop
-- Crop Year
-- Season
-- State
-- Area
-- Production
-- Annual Rainfall
-- Fertilizer
-- Pesticide
-- Yield
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 📧 Email: YOUR_EMAIL
 
 ---
 
-# 🛠 Technologies Used
+## 🎯 2026 Goals
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
----
-
-# 📊 Project Workflow
-
-```
-Raw Dataset
-      │
-      ▼
-Data Understanding
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Missing Value Treatment
-      │
-      ▼
-Duplicate Removal
-      │
-      ▼
-Invalid Value Handling
-      │
-      ▼
-Outlier Detection (IQR)
-      │
-      ▼
-Exploratory Data Analysis
-      │
-      ▼
-Business Insights
-```
+- Build 10+ Data Analytics Projects
+- Master SQL
+- Master Power BI
+- Solve 200+ Python Problems
+- Contribute to Open Source
+- Secure a Data Analyst Role
 
 ---
 
-# 🔍 Data Cleaning
-
-✔ Missing Value Handling
-
-✔ Duplicate Record Removal
-
-✔ Invalid Value Treatment
-
-✔ Outlier Detection
-
-✔ Data Validation
-
----
-
-# 📈 Exploratory Data Analysis
-
-### Univariate Analysis
-
-- Crop Distribution
-- Season Distribution
-- State Distribution
-- Yield Distribution
-- Rainfall Distribution
-- Production Distribution
-
-### Bivariate Analysis
-
-- Rainfall vs Yield
-- Area vs Production
-- Crop vs Yield
-- Season vs Yield
-- Fertilizer vs Yield
-
-### Multivariate Analysis
-
-- Correlation Heatmap
-- State vs Season Heatmap
-- Multiple Variable Comparison
-
----
-
-# 📊 Pivot Table Analysis
-
-- State-wise Average Yield
-- Crop-wise Average Yield
-- Season-wise Average Yield
-- State × Season Analysis
-
----
-
-# 💡 Key Insights
-
-✔ Crop yield varies significantly across different states.
-
-✔ Higher cultivated area generally results in greater production.
-
-✔ Rainfall influences crop productivity but is not the only determining factor.
-
-✔ Fertilizer and pesticide usage show positive relationships with yield for many crops.
-
-✔ Different seasons produce different yield patterns.
-
-✔ Data cleaning significantly improves the reliability of analysis.
-
----
-
-# 📷 Sample Visualizations
-
-> Add screenshots inside the **images/** folder and display them here.
-
-```
-images/
-├── correlation_heatmap.png
-├── boxplot.png
-├── histogram.png
-├── pairplot.png
-├── state_vs_yield.png
-```
-
-Example
-
-```markdown
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-![Yield Distribution](images/yield_distribution.png)
-
-![State Analysis](images/state_analysis.png)
-```
-
----
-
-# 📁 Repository Structure
-
-```
-Crop-Yield-Analysis/
-│
-├── dataset/
-│      crop_yield.csv
-│
-├── images/
-│      heatmap.png
-│      boxplot.png
-│      histogram.png
-│
-├── EDA_Crop_Yield_Analysis.ipynb
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
-# ▶ How to Run
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Crop-Yield-Analysis.git
-```
-
-Move to project folder
-
-```bash
-cd Crop-Yield-Analysis
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
-# 🚀 Future Improvements
-
-- Crop Yield Prediction using Machine Learning
-- Weather API Integration
-- Power BI Dashboard
-- Streamlit Web Application
-- Soil Analysis Integration
-- Crop Recommendation System
-
----
-
-# 👨‍💻 Author
-
-**Aniket Chaudhari**
-
-**Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization | Agriculture Analytics**
-
----
-
-## ⭐ If you found this project useful, don't forget to Star this repository!
+⭐ Thanks for visiting my profile! If you like my work, consider following me and exploring my repositories.
