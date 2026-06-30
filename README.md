@@ -1,21 +1,252 @@
-# 💫 About Me:
-Hi , I'm Aniket Sanjay Chaudhari 👋<br>I am a Software Engineer and Full Stack Developer with a strong foundation in building responsive, user-centric web applications. I enjoy bridge the gap between complex engineering concepts and functional software solutions.<br><br><br><br>👯 I’m looking to collaborate on: Open-source projects involving React.js, Node.js, or Python.<br><br>🤝 I’m looking for help with: Mastering advanced cloud architecture and further exploring Oracle Cloud Infrastructure.<br><br>🌱 I’m currently learning: Advanced AI foundations and deep-diving into Data Science applications with Python.<br><br>💬 Ask me about: Frontend Development (Tailwind, Bootstrap), JavaScript (ES6+), or MySQL implementation.<br><br>⚡ Fun fact: I am a certified Hashgraph Developer and an Oracle Cloud Foundations Associate.<br><br>🛠️ Technical Skills<br><br>Languages: JavaScript (ES6+), Python, HTML5, CSS3, SQL.<br><br><br>Frontend: React.js, Tailwind CSS, Bootstrap, Responsive Web Design.<br><br><br>Backend/Database: Node.js, Express.js, MongoDB, MySQL.<br><br><br>Data Science Tools: NumPy, Pandas, Jupyter Notebook, Anaconda.<br><br><br>Version Control: Git & GitHub.<br><br>🏆 Key Projects<br><br>Digital Civic Platform: A geo-targeted petition system for local governance.<br><br><br>Spotify Clone: A high-fidelity music player with dynamic rendering and custom UI.<br><br><br>Interactive Quiz App: Real-time score tracking and randomization logic using core JS.<br><br>📫 How to reach me:<br><br>LinkedIn: linkedin.com/in/aniket-chaudhari-5a377a25a <br><br><br>Email: aniketchaudhari6985@gmail.com
+# 🌾 Crop Yield Analysis using Exploratory Data Analysis (EDA)
 
+<p align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketchaudhari6985@gmail.com) 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-2E8B57)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aniket-876&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aniket-876&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-876&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aniket-876&icon=9&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 Project Overview
+
+This project performs a complete **Exploratory Data Analysis (EDA)** on an Agricultural Crop Yield dataset to discover the factors that influence crop productivity. The project follows a real-world data analytics workflow including data cleaning, preprocessing, visualization, and business insight generation.
+
+The analysis helps understand how rainfall, fertilizer usage, pesticide usage, cultivated area, season, and crop type affect agricultural yield.
+
+---
+
+## 🎯 Business Objective
+
+The objective of this project is to analyze agricultural data and identify important factors affecting crop yield. The insights generated can help farmers, researchers, policymakers, and agribusiness organizations make data-driven decisions for improving agricultural productivity.
+
+---
+
+# 📂 Dataset Information
+
+**Dataset:** Agricultural Crop Yield Dataset
+
+### Features
+
+- Crop
+- Crop Year
+- Season
+- State
+- Area
+- Production
+- Annual Rainfall
+- Fertilizer
+- Pesticide
+- Yield
+
+---
+
+# 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+# 📊 Project Workflow
+
+```
+Raw Dataset
+      │
+      ▼
+Data Understanding
+      │
+      ▼
+Data Cleaning
+      │
+      ▼
+Missing Value Treatment
+      │
+      ▼
+Duplicate Removal
+      │
+      ▼
+Invalid Value Handling
+      │
+      ▼
+Outlier Detection (IQR)
+      │
+      ▼
+Exploratory Data Analysis
+      │
+      ▼
+Business Insights
+```
+
+---
+
+# 🔍 Data Cleaning
+
+✔ Missing Value Handling
+
+✔ Duplicate Record Removal
+
+✔ Invalid Value Treatment
+
+✔ Outlier Detection
+
+✔ Data Validation
+
+---
+
+# 📈 Exploratory Data Analysis
+
+### Univariate Analysis
+
+- Crop Distribution
+- Season Distribution
+- State Distribution
+- Yield Distribution
+- Rainfall Distribution
+- Production Distribution
+
+### Bivariate Analysis
+
+- Rainfall vs Yield
+- Area vs Production
+- Crop vs Yield
+- Season vs Yield
+- Fertilizer vs Yield
+
+### Multivariate Analysis
+
+- Correlation Heatmap
+- State vs Season Heatmap
+- Multiple Variable Comparison
+
+---
+
+# 📊 Pivot Table Analysis
+
+- State-wise Average Yield
+- Crop-wise Average Yield
+- Season-wise Average Yield
+- State × Season Analysis
+
+---
+
+# 💡 Key Insights
+
+✔ Crop yield varies significantly across different states.
+
+✔ Higher cultivated area generally results in greater production.
+
+✔ Rainfall influences crop productivity but is not the only determining factor.
+
+✔ Fertilizer and pesticide usage show positive relationships with yield for many crops.
+
+✔ Different seasons produce different yield patterns.
+
+✔ Data cleaning significantly improves the reliability of analysis.
+
+---
+
+# 📷 Sample Visualizations
+
+> Add screenshots inside the **images/** folder and display them here.
+
+```
+images/
+├── correlation_heatmap.png
+├── boxplot.png
+├── histogram.png
+├── pairplot.png
+├── state_vs_yield.png
+```
+
+Example
+
+```markdown
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+![Yield Distribution](images/yield_distribution.png)
+
+![State Analysis](images/state_analysis.png)
+```
+
+---
+
+# 📁 Repository Structure
+
+```
+Crop-Yield-Analysis/
+│
+├── dataset/
+│      crop_yield.csv
+│
+├── images/
+│      heatmap.png
+│      boxplot.png
+│      histogram.png
+│
+├── EDA_Crop_Yield_Analysis.ipynb
+│
+├── requirements.txt
+│
+└── README.md
+```
+
+---
+
+# ▶ How to Run
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/Crop-Yield-Analysis.git
+```
+
+Move to project folder
+
+```bash
+cd Crop-Yield-Analysis
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+# 🚀 Future Improvements
+
+- Crop Yield Prediction using Machine Learning
+- Weather API Integration
+- Power BI Dashboard
+- Streamlit Web Application
+- Soil Analysis Integration
+- Crop Recommendation System
+
+---
+
+# 👨‍💻 Author
+
+**Aniket Chaudhari**
+
+**Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization | Agriculture Analytics**
+
+---
+
+## ⭐ If you found this project useful, don't forget to Star this repository!
