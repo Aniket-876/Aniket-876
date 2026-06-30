@@ -140,7 +140,7 @@ Collected real-world data using BeautifulSoup and transformed it into an analysi
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 - 💻 GitHub: https://github.com/YOUR_USERNAME
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: aniketchaudhari6985@gmail.com
 
 ---
 
