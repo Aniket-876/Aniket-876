@@ -80,9 +80,9 @@ Exploratory Data Analysis on agricultural crop yield dataset.
 
 ---
 
-### 🏡 House Rent Analysis
+### 🏡 Used Car Market Analysis using Web Scraping and Exploratory Data Analysis (EDA)
 
-EDA project to understand rental trends and factors affecting house prices.
+Web scraping and exploratory data analysis of CarDekho used car listings to uncover pricing trends and market insights using Python
 
 **Skills Used**
 
@@ -90,6 +90,8 @@ EDA project to understand rental trends and factors affecting house prices.
 - Pandas
 - Seaborn
 - Matplotlib
+- web scraping
+- regex
 
 ---
 
