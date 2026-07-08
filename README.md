@@ -80,7 +80,9 @@ Exploratory Data Analysis on agricultural crop yield dataset.
 
 ---
 
-### 🏡 Used Car Market Analysis using Web Scraping and Exploratory Data Analysis (EDA)
+### 🌐 Web Scraping Project
+
+🏡 Used Car Market Analysis using Web Scraping and Exploratory Data Analysis (EDA)
 
 Web scraping and exploratory data analysis of CarDekho used car listings to uncover pricing trends and market insights using Python
 
@@ -108,9 +110,6 @@ Interactive Power BI dashboard for movie sales analysis.
 
 ---
 
-### 🌐 Web Scraping Project
-
-Collected real-world data using BeautifulSoup and transformed it into an analysis-ready dataset.
 
 ---
 
